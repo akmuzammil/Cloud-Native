@@ -1,0 +1,6 @@
+2021-06-15 12:39:09,200  * Running on all addresses.
+   WARNING: This is a development server. Do not use it in a production deployment.
+2021-06-15 12:39:09,200  * Running on http://192.168.8.103:5000/ (Press CTRL+C to quit)
+2021-06-15 12:39:14,662 127.0.0.1 - - [15/Jun/2021 12:39:14] "GET / HTTP/1.1" 200 -
+2021-06-15 12:39:32,756 status endpoint was reached
+2021-06-15 12:39:32,756 127.0.0.1 - - [15/Jun/2021 12:39:32] "GET /status HTTP/1.1" 200 -
