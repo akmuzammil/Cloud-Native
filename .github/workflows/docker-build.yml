@@ -37,8 +37,8 @@ jobs:
         id: docker_build
         uses: docker/build-push-action@v2
         with:
-          context: .
-          file: ./PythonFlaskStatusApp/exercises/python-helloworld/Dockerfile
+          context: ./PythonFlaskStatusApp/exercises/python-helloworld/
+          file: ./Dockerfile
           platforms: linux/amd64
           push: true
           tags: amuzammil/python-helloworld:latest
