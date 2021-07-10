@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello World!"
+    return "Hello World! Version 2"
 
 #added endpoint for metrics 
 #usage: http://localhost:5000/metrics
