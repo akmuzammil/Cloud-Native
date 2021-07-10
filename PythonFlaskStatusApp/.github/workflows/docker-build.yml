@@ -18,7 +18,7 @@ jobs:
       - uses: actions/checkout@v2
       ## Use the public `setup-python` action  in version v2  
       ## to install python on the Ubuntu based environment 
-      #- uses: actions/setup-python@v2
+      ##- uses: actions/setup-python@v2
       ## Executes the `python --version` command
       -
         name: Set up QEMU
