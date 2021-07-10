@@ -1,2 +1,2 @@
 # Cloud-Native
- CNCF
+ CNCF Project
